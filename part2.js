@@ -36,20 +36,3 @@ var tinggiPohon = 700;
 var luasKamar = 36;
 var diameterKoin = 2;
 var kedalamanSumur = 8;
-
-// Boolean 15
-var esMencairDipanas = true;
-var plastikMudahSobek = true;
-var kacaBening = true;
-var karetPenghantarListrik = false;
-var emasBerwarnaKuning = true;
-var perakLebihMurahDariEmas = true;
-var tembagaMenghantarkanListrik = true;
-var kayuBisaTerbakar = true;
-var plastikMudahPatah = false;
-var karetGelangElastis = true;
-var sponsMenyerapAir = true;
-var kapasTahanApi = false;
-var besiBisaDitarikMagnet = true;
-var alumuniumRingan = true;
-var airPutihTidakBerwarna = true;
